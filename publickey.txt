@@ -1,0 +1,25 @@
+Application Server Keys
+Application server keys are used to idenitfy your application server with a push service.
+
+Public Key
+
+BC770f0Kn6rqn4BsVE4H8pXyb5MffrtYTEQuGifwHXTCWLIecaiNPYa1OvhJG5FDo_ky14Ax5Pp1QQlHExf0fRQ
+
+
+Private Key
+
+mbn6iArLPsBE3Ptj4k9sh37rpE3wqrmumSsFHJnZlvw
+
+
+https://web-push-codelab.glitch.me/
+
+
+
+****************************
+Public Key
+
+BP2oD9872oO3d94iibQUcXmYM9AFG4zWFji5OkZtt0mPajYYG0XhjX9gIkU-A4sLoLtEpHM4_e3MA8_ii2VgeZA
+
+Private Key
+
+kDjvafAZWZ-Iu8U0egBYGb2xnXa5n59mdAqnWdSxeDA
